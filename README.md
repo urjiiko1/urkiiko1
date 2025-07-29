@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&delay=6000&color=FF6F61&center=true&vCenter=true&width=500&lines=Information%20Science%20Student;Passionate%20about%20Data%20Science;Frontend%20and%20Design" alt="Typing SVG" />
 </h2>
 
-## 👨‍🎓 About Me
+## 👨‍🎓 About Me  
 
 🎓 I'm an Information Science student at Haramaya University, building practical projects in **database systems**, **data analysis** and **front-end web design**.
 
@@ -40,7 +40,7 @@
 
 
 ### ✈️ [Database-Project](https://github.com/urjiiko1/Database-Project)
-A relational MySQL database for managing **Ethiopian Airlines domestic flights**, bookings, crew and **student discounts**.
+A relational MySQL database for managing **Ethiopian Airlines domestic flights**, bookings crew and **student discounts**.
 
 - 🧑‍🎓 ID-based student discount module  
 - 🗺️ Includes ERD, 3NF normalization advanced queries  
@@ -49,7 +49,7 @@ A relational MySQL database for managing **Ethiopian Airlines domestic flights**
 
 
 ### 📊 [FUTURE_DS_01](https://github.com/urjiiko1/FUTURE_DS_01)
-A **Power BI dashboard** from e-commerce data for business insights, trends and category analysis.
+A **Power BI dashboard** from e-commerce data for business insights trends and category analysis.
 
 - 🧹 Data Cleaning, DAX, Trend Analysis  
 - 📊 Tools: Power BI Desktop, Excel  
@@ -65,16 +65,16 @@ A modern, **glassmorphism-styled login system** with CSS animations and toast me
 - 💬 Pure CSS toast notifications (Login, Sign Up, Forgot Password)  
 
 > **Animated Glassmorphism Login System**  
-> Welcome to this Web login Pages project! 🎉 This collection features beautifully animated, modern web pages for **Login**, **Sign Up**, and **Forget Password**, crafted with a **glassmorphism aesthetic** and delightful **CSS animations**, creating a serene, atmospheric user experience. 🌅
+> Welcome to this Web login Pages project! 🎉 This collection features beautifully animated, modern web pages for **Login**, **Sign Up** and **Forget Password**, crafted with a **glassmorphism aesthetic** and delightful **CSS animations**, creating a serene, atmospheric user experience. 🌅
 
 ▶️ **Live Demo:** [View Project Live Here](https://urjiiko1.github.io/code-craft/CSS02/) 🌐
 
 ---
 
 ### 💻 [ISHUB_AAU_Frontend](https://github.com/urjiiko1/ISHUB_AAU_Frontend)
-Internship project — of Front-end development .
+Internship project — of Front-End development.
 
-- 🚧 Still evolving — details coming soon
+- 🚧 Still evolving — details coming soon   
 
 ---
 
