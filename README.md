@@ -4,7 +4,7 @@
 
 <h2 align="center" style="margin-top: -10px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&delay=6000&color=FF6F61&center=true&vCenter=true&width=500&lines=Information%20Science%20Student;Passionate%20about%20Data%20Science;Frontend%20and%20Design" alt="Typing SVG" />
-</h2>
+</h2>  
 
 ## 👨‍🎓 About Me  
 
@@ -14,7 +14,7 @@
 - 🌱 Learning: **Power BI**, **MySQL optimization**, **modern CSS**  
 - 👯 Open to collaborate on: **Data dashboards**, **MySQL-based systems** and **animated front-end UIs**  
 - 💬 Ask me about: **Power BI, SQL, CSS animations**  
-- 📫 Reach me at: [gemachistesfaye36@example.com](mailto:gemachistesfaye36@example.com)
+- 📫 Reach me at: [gemachistesfaye36@example.com](mailto:gemachistesfaye36@example.com) 
 
 
 <p align="center">
@@ -108,7 +108,7 @@ Internship project — of Front-End development.
 
 
 
-## 📈 Activity Graph
+## 📈 Activity Graph 
 
 <p align="center">
   <img src="https://activity-graph.vercel.app/graph?username=urjiiko1&theme=dracula" alt="GitHub Activity Graph">
