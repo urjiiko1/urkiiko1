@@ -8,7 +8,7 @@
 
 ## 👨‍🎓 About Me  
 
-🎓 I'm an Information Science student at Haramaya University, building practical projects in **Database Systems**, **Data Analysis** and **FrontEnd Web Design**.
+🎓 I'm an Information Science student at Haramaya University, building practical projects in **Database Systems**, **Data Analysis** and **Frontend Web Design**.
 
 - 🔭 Working on: **Ethiopian Airlines DB System** with student discount automation  
 - 🌱 Learning: **Power BI**, **MySQL optimization**, **Modern CSS**  
@@ -64,10 +64,10 @@ A modern, **glassmorphism-styled login system** with CSS animations and toast me
 - 🚴 Moving girl background  
 - 💬 Pure CSS toast notifications (Login, Sign Up, Forgot Password)  
 
-> **Animated Glassmorphism Login System**  
-> Welcome to this Web login Pages project! 🎉 This collection features beautifully animated, modern web pages for **Login**, **Sign Up** and **Forget Password**, crafted with a **glassmorphism aesthetic** and delightful **CSS animations**, creating a serene, atmospheric user experience. 🌅
+>▶️ **Live Demo:** [View Project Live Here](https://urjiiko1.github.io/code-craft/CSS02/) 🌐
+>
 
-▶️ **Live Demo:** [View Project Live Here](https://urjiiko1.github.io/code-craft/CSS02/) 🌐
+
 
 ---
 
