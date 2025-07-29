@@ -30,8 +30,6 @@
 </p>
 
 
-
-
 <h2 align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1200&color=FF7F50&width=500&lines=📂+Featured+Projects" alt="Featured Projects Typing Animation" />
 </h2>
@@ -76,7 +74,7 @@ Internship project of Front-End
 
 - 🚧 Still evolving — details coming soon   
 
----
+----
 
 
 ## 🧰 Languages & Tools
@@ -90,7 +88,12 @@ Internship project of Front-End
 
 </p>
 
+
+
+
 ---
+
+
 
 ## 📊 GitHub Stats 
 
