@@ -8,11 +8,11 @@
 
 ## 👨‍🎓 About Me  
 
-🎓 I'm an Information Science student at Haramaya University, building practical projects in **database systems**, **data analysis** and **front-end web design**.
+🎓 I'm an Information Science student at Haramaya University, building practical projects in **Database Systems**, **Data Analysis** and **FrontEnd Web Design**.
 
-- 🔭 Working on: **Ethiopian Airlines DB system** with student discount automation  
-- 🌱 Learning: **Power BI**, **MySQL optimization**, **modern CSS**  
-- 👯 Open to collaborate on: **Data dashboards**, **MySQL-based systems** and **animated front-end UIs**  
+- 🔭 Working on: **Ethiopian Airlines DB System** with student discount automation  
+- 🌱 Learning: **Power BI**, **MySQL optimization**, **Modern CSS**  
+- 👯 Open to collaborate on: **Data Dashboards**, **MySQL-based systems** and **animated front-end UIs**  
 - 💬 Ask me about: **Power BI, SQL, CSS animations**  
 - 📫 Reach me at: [gemachistesfaye36@example.com](mailto:gemachistesfaye36@example.com) 
 
@@ -32,24 +32,24 @@
 
 
 
-
 <h2 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF7F50&width=400&lines=%F0%9F%9A%80+Featured+Projects" alt="Featured Projects Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1200&color=FF7F50&width=500&lines=📂+Featured+Projects" alt="Featured Projects Typing Animation" />
 </h2>
 
 
 
+
 ### ✈️ [Database-Project](https://github.com/urjiiko1/Database-Project)
-A relational MySQL database for managing **Ethiopian Airlines domestic flights**, bookings crew and **student discounts**.
+A relational MySQL database for managing **Ethiopian Airlines Flights**, bookings crew and **student discounts**.
 
 - 🧑‍🎓 ID-based student discount module  
-- 🗺️ Includes ERD, 3NF normalization advanced queries  
-- 🛠️ Built with: MySQL 
+- 🗺️ Includes ERD, 3NF Normalization and Advanced queries  
+- 🛠️ Built with MySQL 
 
 
 
 ### 📊 [FUTURE_DS_01](https://github.com/urjiiko1/FUTURE_DS_01)
-A **Power BI dashboard** from e-commerce data for business insights trends and category analysis.
+A **Power BI Dashboard** from e-commerce data for business insights trends and category analysis.
 
 - 🧹 Data Cleaning, DAX, Trend Analysis  
 - 📊 Tools: Power BI Desktop, Excel  
@@ -72,7 +72,7 @@ A modern, **glassmorphism-styled login system** with CSS animations and toast me
 ---
 
 ### 💻 [ISHUB_AAU_Frontend](https://github.com/urjiiko1/ISHUB_AAU_Frontend)
-Internship project — of Front-End development.
+Internship project of Front-End 
 
 - 🚧 Still evolving — details coming soon   
 
