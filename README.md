@@ -4,7 +4,7 @@
 
 <h2 align="center" style="margin-top: -10px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&delay=6000&color=FF6F61&center=true&vCenter=true&width=500&lines=Information%20Science%20Student;Passionate%20about%20Data%20Science;Frontend%20and%20Design" alt="Typing SVG" />
-</h2>  
+</h2>     
 
 ## 👨‍🎓 About Me  
 
@@ -92,11 +92,11 @@ Internship project of Front-End
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=urjiiko1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+</p>        
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=urjiiko1&theme=tokyonight" alt="GitHub Summary" />
@@ -112,4 +112,4 @@ Internship project of Front-End
 
 <p align="center">
   <img src="https://activity-graph.vercel.app/graph?username=urjiiko1&theme=dracula" alt="GitHub Activity Graph">
-</p>
+</p>     
