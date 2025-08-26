@@ -57,7 +57,7 @@ A **Power BI Dashboard** for analyzing e-commerce data.
 
 ---
 
-### 🧊 [GlassLogin UI Experience](https://github.com/urjiiko1/code-craft)
+### 🧊 [GlassLogin UI Experience](https://github.com/urjiiko1/code-craft/tree/main/CSS02)
 A modern, **glassmorphism-styled login system** with CSS animations.  
 
 - 🍂 Falling leaves background  
@@ -68,7 +68,7 @@ A modern, **glassmorphism-styled login system** with CSS animations.
 
 ---
 
-### 📝 [Grade Evaluator](https://github.com/urjiiko1/Grade)
+### 📝 [Grade Evaluator](https://github.com/urjiiko1/GradeEvaluator)
 My **first Python web app** (built in Nehase 2017).  
 
 - ✅ Enter marks → get grade output  
@@ -79,14 +79,14 @@ My **first Python web app** (built in Nehase 2017).
 
 ---
 
-### 🌐 [Personal Portfolio](https://github.com/urjiiko1/personal-portofolio)
+### 🌐 [Personal Portfolio](https://github.com/urjiiko1/Portfolio)
 A **modern responsive portfolio** to showcase my projects, skills and journey.
 
 - 💻 Built with **React.js & TailwindCSS**  
 - 🎨 Responsive design with clean UI  
 - 🚀 Deployed on **GitHub Pages**  
 
->▶️ **Live Demo:** [Visit My Portfolio](https://urjiiko1.github.io/personal-portofolio) 🌐  
+>▶️ **Live Demo:** [Visit My Portfolio](https://urjiiko1.github.io/Portfolio) 🌐  
 
 ---
 
