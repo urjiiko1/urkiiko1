@@ -3,22 +3,26 @@
 </h1>
 
 <h2 align="center" style="margin-top: -10px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&delay=6000&color=FF6F61&center=true&vCenter=true&width=500&lines=Information%20Science%20Student;Passionate%20about%20Data%20Science;Frontend%20and%20Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&delay=6000&color=FF6F61&center=true&vCenter=true&width=500&lines=Information%20Science%20Student;Aspiring%20Data%20Analyst%20%26%20Frontend%20Developer;Passionate%20about%20Design%20%26%20Innovation" alt="Typing SVG" />
 </h2>     
+
+---
 
 ## 👨‍🎓 About Me  
 
-🎓 I'm an Information Science student at Haramaya University, building practical projects in **Database Systems**, **Data Analysis** and **Frontend Web Design**.
+🎓 I'm an **Information Science student at Haramaya University**, passionate about bridging **data science, design and technology**.  
+💡 Currently building **practical projects** in **Database Systems**, **Data Analysis** and **Frontend Development**.  
 
-- 🔭 Working on: **Ethiopian Airlines DB System** with student discount automation  
-- 🌱 Learning: **Power BI**, **MySQL optimization**, **Modern CSS**  
-- 👯 Open to collaborate on: **Data Dashboards**, **MySQL-based systems** and **animated front-end UIs**  
-- 💬 Ask me about: **Power BI, SQL, CSS animations**  
-- 📫 Reach me at: [gemachistesfaye36@example.com](mailto:gemachistesfaye36@example.com) 
-
+- 🔭 Work on: **Ethiopian Airlines DB System** with student discount automation  
+- 🌱 Learning: **Python**, **JavaScript (React.js)** and **Power BI**
+- 📊 Skilled in: **Database Design**, **Data Cleaning**, **Visualization**, **Responsive Frontends**  
+- 👯 Open to collaborate on: **Data Dashboards**, **SQL/MongoDB systems** and **Animated UI projects**  
+- 💬 Ask me about: **Power BI, SQL, MongoDB, CSS animations, Data Dashboards**  
+- 🎯 Goal: To grow into a **Data Analyst & Frontend Developer**
+- 📫 Reach me at: [gemachistesfaye36@example.com](mailto:gemachistesfaye36@example.com)  
 
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&to=gemachistesfaye@example.com" target="_blank" style="margin-right: 10px;">
+  <a href="https://mail.google.com/mail/?view=cm&to=gemachistesfaye36@example.com" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://www.linkedin.com/in/gemachis-tesfaye-137196318" target="_blank" style="margin-right: 10px;">
@@ -29,72 +33,96 @@
   </a>
 </p>
 
+---
 
 <h2 align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1200&color=FF7F50&width=500&lines=📂+Featured+Projects" alt="Featured Projects Typing Animation" />
 </h2>
 
+### ✈️ [Ethiopian Airlines DB](https://github.com/urjiiko1/Database-Project)
+A relational **MySQL database system** for managing Ethiopian Airlines flights, crew and **student discounts**.
 
-
-
-
-### ✈️ [Database-Project](https://github.com/urjiiko1/Database-Project)
-A relational MySQL database for managing **Ethiopian Airlines Flights**, bookings crew and **student discounts**.
-
-- 🧑‍🎓 ID-based student discount module  
-- 🗺️ Includes ERD, 3NF Normalization and Advanced queries  
-- 🛠️ Built with MySQL 
-
-
-
-### 📊 [FUTURE_DS_01](https://github.com/urjiiko1/FUTURE_DS_01)
-A **Power BI Dashboard** from e-commerce data for business insights trends and category analysis.
-
-- 🧹 Data Cleaning, DAX, Trend Analysis  
-- 📊 Tools: Power BI Desktop, Excel  
-- 🎯 Key insights: top products, discount impact, segment performance  
-
-
-
-### 🧊 [code-craft](https://github.com/urjiiko1/code-craft)
-A modern, **glassmorphism-styled login system** with CSS animations and toast messages.
-
-- 🍂 Falling leaves animation  
-- 🚴 Moving girl background  
-- 💬 Pure CSS toast notifications (Login, Sign Up, Forgot Password)  
-
->▶️ **Live Demo:** [View Project Live Here](https://urjiiko1.github.io/code-craft/CSS02/) 🌐
->
-
-
+- 🎓 Automated student ID discount  
+- 🗂️ Includes ERD & 3NF normalization  
+- ⚡ Advanced SQL queries  
 
 ---
 
-### 💻 [ISHUB_AAU_Frontend](https://github.com/urjiiko1/ISHUB_AAU_Frontend)
-Internship project of Front-End 
+### 📊 [E-Commerce Insights Dashboard](https://github.com/urjiiko1/FUTURE_DS_01)
+A **Power BI Dashboard** for analyzing e-commerce data.  
 
-- 🚧 Still evolving — details coming soon   
+- 📈 Insights on top products, discounts & sales segments  
+- 🧹 Data Cleaning, DAX & visuals  
+- 🛠️ Tools: Power BI, Excel  
 
-----
+---
 
+### 🧊 [GlassLogin UI Experience](https://github.com/urjiiko1/code-craft)
+A modern, **glassmorphism-styled login system** with CSS animations.  
 
-## 🧰 Languages & Tools
+- 🍂 Falling leaves background  
+- 🚴 Animated girl SVG  
+- 💬 Toast messages for login/signup  
+
+>▶️ **Live Demo:** [View Project Live Here](https://urjiiko1.github.io/code-craft/CSS02/) 🌐  
+
+---
+
+### 📝 [Grade Evaluator](https://github.com/urjiiko1/Grade)
+My **first Python web app** (built in Nehase 2017).  
+
+- ✅ Enter marks → get grade output  
+- 🖥️ Built with Python & simple web framework  
+- 📚 Inspired my journey into programming  
+
+>▶️ **Live Demo:** [View Project Live Here](https://grade-evaluator.onrender.com/) 🌐
+
+---
+
+### 🌐 [Personal Portfolio](https://github.com/urjiiko1/personal-portofolio)
+A **modern responsive portfolio** to showcase my projects, skills and journey.
+
+- 💻 Built with **React.js & TailwindCSS**  
+- 🎨 Responsive design with clean UI  
+- 🚀 Deployed on **GitHub Pages**  
+
+>▶️ **Live Demo:** [Visit My Portfolio](https://urjiiko1.github.io/personal-portofolio) 🌐  
+
+---
+
+## 🧰 Skills & Tools
+
+### 💻 Languages & Frameworks
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" height="40" alt="Power BI"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/>
 </p>
 
+### 🗄️ Databases
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB"/>
+</p>
 
+### ⚡ Tools & Platforms
+<p align="left">
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" height="40" title="Power BI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" title="GitHub"/>
+</p>
 
+### 🚀 Currently Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" title="React.js"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" title="Power BI"/>
+</p>
 
 ---
-
-
 
 ## 📊 GitHub Stats 
 
@@ -110,10 +138,10 @@ Internship project of Front-End
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urjiiko1&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-
+---
 
 ## 📈 Activity Graph 
 
 <p align="center">
   <img src="https://activity-graph.vercel.app/graph?username=urjiiko1&theme=dracula" alt="GitHub Activity Graph">
-</p>     
+</p>
